@@ -1,0 +1,31 @@
+{
+    "sql_exec.commands": {
+        "mysql" : "H:/webserver/mysql5.1/bin/mysql"
+        },
+    "connections": {
+        "mysql": {
+           "type"    : "mysql",
+           "host"    : "127.0.0.1",
+           "port"    : 3306,
+           "username": "root",
+           "password": "root123",
+           "database": "test2"
+        },
+        "pgsql": {
+           "type"    : "pgsql",
+           "host"    : "127.0.0.1",
+           "port"    :  5432,
+           "username": "anotheruser",
+           "database": "dbname"
+        },
+        "oracle": {
+           "type"    : "oracle",
+           "host"    : "127.0.0.1",
+           "port"    :  1522,
+           "username": "anotheruser",
+           "password": "password",
+           "database": "dbname",
+           "service" : "servicename"
+        }
+    }
+}

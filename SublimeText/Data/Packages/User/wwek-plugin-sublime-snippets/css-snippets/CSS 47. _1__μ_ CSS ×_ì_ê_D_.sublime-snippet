@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+/* */
+p {
+  font: italic small-caps bold 1.2em/1.0em Arial, Tahoma, Helvetica;
+}
+]]></content>
+    <tabTrigger>css-47.</tabTrigger>
+    <scope>source.css</scope>
+    <description>47. 压缩的 CSS 字体属性</description>
+</snippet>

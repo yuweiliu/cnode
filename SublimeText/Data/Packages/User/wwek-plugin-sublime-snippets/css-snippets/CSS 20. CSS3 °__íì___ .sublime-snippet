@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+/* */
+tbody tr:nth-child(odd) {
+     background-color: #ccc;
+ }]]></content>
+    <tabTrigger>css- 20.</tabTrigger>
+    <scope>source.css</scope>
+    <description> 20. CSS3 斑马条纹 </description>
+</snippet>

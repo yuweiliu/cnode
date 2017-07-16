@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+/* */
+#mydiv {
+      -moz-box-shadow: inset 2px 0 4px #000;
+     -webkit-box-shadow: inset 2px 0 4px #000;
+     box-shadow: inset 2px 0 4px #000;
+ }]]></content>
+    <tabTrigger>css- 23.</tabTrigger>
+    <scope>source.css</scope>
+    <description> 23. CSS3盒子模型内部阴影 </description>
+</snippet>

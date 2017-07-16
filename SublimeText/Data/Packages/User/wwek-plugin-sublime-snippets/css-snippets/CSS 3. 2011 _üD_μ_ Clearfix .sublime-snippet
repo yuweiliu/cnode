@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+/* */
+.clearfix:before, .container:after { content: "";
+ display: table;
+ 
+}
+.clearfix:after { clear: both;
+ 
+}
+ /* IE 6/7 */ .clearfix { zoom: 1;
+ }]]></content>
+    <tabTrigger>css- 3.</tabTrigger>
+    <scope>source.css</scope>
+    <description> 3. CSS 2011 更新的 Clearfix </description>
+</snippet>

@@ -1,0 +1,1972 @@
+{
+	"folder_history":
+	[
+		"/C/Users/Administrator/Desktop/world",
+		"/C/Users/Administrator/Desktop/614",
+		"/C/Users/Administrator/Desktop/6-14",
+		"/C/Users/Administrator/Desktop/npm",
+		"/C/Users/Administrator/Desktop/hello"
+	],
+	"last_version": 3095,
+	"last_window_id": 17,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 665.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"re",
+						"react.css"
+					],
+					[
+						"css",
+						"css/"
+					],
+					[
+						"prt",
+						"prototype"
+					],
+					[
+						"sex",
+						"sex"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"cleat",
+						"clearInterval()	Frame"
+					],
+					[
+						"qu",
+						"querySelector()"
+					],
+					[
+						"scr",
+						"scroll	.scroll()"
+					],
+					[
+						"mari",
+						"margin-top"
+					],
+					[
+						"q",
+						"querySelectorAll"
+					],
+					[
+						"bai",
+						"baobei"
+					],
+					[
+						"shop",
+						"shopTotal"
+					],
+					[
+						"check",
+						"checkbox	Default"
+					],
+					[
+						"pr",
+						"preventDefault()	Event"
+					],
+					[
+						"clear",
+						"clearfix"
+					],
+					[
+						"radioA",
+						"radioAll"
+					],
+					[
+						"getElement",
+						"getElementsByTagName()"
+					],
+					[
+						"onc",
+						"onclick	(gouwu.html)"
+					],
+					[
+						"cou",
+						"countArr"
+					],
+					[
+						"change",
+						"changeState"
+					],
+					[
+						"all",
+						"allArr"
+					],
+					[
+						"che",
+						"checked	(gouwu.html)"
+					],
+					[
+						"getE",
+						"getElementsByTagName()	Document"
+					],
+					[
+						"op",
+						"options[]	Select"
+					],
+					[
+						"option",
+						"options[]	Select"
+					],
+					[
+						"selected",
+						"selectedIndex"
+					],
+					[
+						"for",
+						"foreach()	Array"
+					],
+					[
+						"n",
+						"no-repeat"
+					],
+					[
+						"si",
+						"siblings	.siblings()"
+					],
+					[
+						"subT",
+						"subTotal"
+					],
+					[
+						"par",
+						"parseFloat	Default"
+					],
+					[
+						"mar",
+						"marginLeft"
+					],
+					[
+						"pars",
+						"parseFloat"
+					],
+					[
+						"get",
+						"getComputedStyle"
+					],
+					[
+						"getc",
+						"getComputedStyle	Window"
+					],
+					[
+						"rem",
+						"removeClass"
+					],
+					[
+						"doc",
+						"document	Window"
+					],
+					[
+						"src",
+						"srcElement	Event"
+					],
+					[
+						"remo",
+						"removeChild()"
+					],
+					[
+						"quer",
+						"querySelectorAll"
+					],
+					[
+						"parent",
+						"parentNode"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"inner",
+						"innerText"
+					],
+					[
+						"setA",
+						"setAttribute()"
+					],
+					[
+						"cr",
+						"createElement()	Document"
+					],
+					[
+						"ol",
+						"oldClass"
+					],
+					[
+						"remove",
+						"removeAttribute()"
+					],
+					[
+						"se",
+						"setAttribute()"
+					],
+					[
+						"getElementsB",
+						"getElementsByClassName()"
+					],
+					[
+						"pre",
+						"preventDefault	Event"
+					],
+					[
+						"do",
+						"document	Window"
+					],
+					[
+						"po",
+						"pointer"
+					],
+					[
+						"index",
+						"indexOf()	Array"
+					],
+					[
+						"focu",
+						"focusout	.focusout()"
+					],
+					[
+						"bord",
+						"border-bottom"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"show",
+						"showMinute"
+					],
+					[
+						"now",
+						"nowMinute"
+					],
+					[
+						"set",
+						"setInterval()	Frame"
+					],
+					[
+						"bo",
+						"border"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"r",
+						"relative"
+					],
+					[
+						"border-ri",
+						"border-radius"
+					],
+					[
+						"rel",
+						"relative"
+					],
+					[
+						"no",
+						"no-repeat"
+					],
+					[
+						"im",
+						"images	(shop.html)"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"font-",
+						"font-weight"
+					],
+					[
+						"margin-",
+						"margin-bottom"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"b",
+						"block"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"tri",
+						"trigger	.trigger()"
+					],
+					[
+						"add",
+						"addClass"
+					],
+					[
+						"bl",
+						"bolder"
+					],
+					[
+						"silde",
+						"slideDown	.slideDown()"
+					],
+					[
+						"blo",
+						"block"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"c",
+						"color"
+					],
+					[
+						"hi",
+						"hidden"
+					],
+					[
+						"td",
+						"td	text-decoration: ${1:none};"
+					],
+					[
+						"va",
+						"value	Attr"
+					],
+					[
+						"an",
+						"animate	.animate()"
+					],
+					[
+						"pic",
+						"picSrc"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"ti",
+						"title	<title>"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"te",
+						"textarea	(pay list.html)"
+					],
+					[
+						"o",
+						"overflow"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"img",
+						"images	(pay list.html)"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"vi",
+						"view	(index.html)"
+					],
+					[
+						"tr",
+						"translate()"
+					],
+					[
+						"ima",
+						"images"
+					],
+					[
+						"fonts",
+						"font-style"
+					],
+					[
+						"mar-",
+						"margin-top"
+					],
+					[
+						"ver",
+						"vertical-align"
+					],
+					[
+						"fr",
+						"free	(index.html)"
+					],
+					[
+						"t",
+						"transform"
+					],
+					[
+						"fon-",
+						"font-size"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"ac",
+						"active	(index.html)"
+					],
+					[
+						"lst",
+						"list-style"
+					],
+					[
+						"gr",
+						"groove"
+					],
+					[
+						"d",
+						"display"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"corl",
+						"color	(DELL.html)"
+					],
+					[
+						"pdd",
+						"padding-right"
+					],
+					[
+						"my",
+						"myname"
+					],
+					[
+						"max-",
+						"max-width"
+					],
+					[
+						"max",
+						"max"
+					],
+					[
+						"he",
+						"header"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"h",
+						"height"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"na",
+						"nav1"
+					],
+					[
+						"sec",
+						"select	<select>"
+					],
+					[
+						"lin",
+						"linear"
+					],
+					[
+						"al",
+						"alternate	(style.css)"
+					],
+					[
+						"le",
+						"left"
+					],
+					[
+						"ab",
+						"absolute"
+					],
+					[
+						"ro",
+						"rotate"
+					],
+					[
+						"trans",
+						"transform"
+					],
+					[
+						"p",
+						"pos	position: ${1:relative};"
+					],
+					[
+						"key",
+						"keyframes	(style.css)"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 469.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 707.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/lianxi/新班课程/html+css/app1/index.html",
+				"/E/lianxi/新班课程/html+css/app/index.html",
+				"/E/lianxi/新班课程/html+css/项目1/index.html",
+				"/E/js练习/js练习/06-06/zepto.html",
+				"/E/js练习/js练习/06-06/音乐.html",
+				"/E/js练习/js练习/音乐.html",
+				"/E/js练习/js练习/06-06",
+				"/E/js练习/js练习/06-05/gouzaohanshu.html",
+				"/E/js练习/js练习/gundong.html",
+				"/C/Users/辉/Desktop/JS原声购物车/JSshop.html",
+				"/C/Users/辉/Desktop/JS原声购物车/js/shop.js",
+				"/E/js练习/js练习/冒泡.exe",
+				"/E/弟嘉/WEB前段（front end developer)/韦辉韦辉/哇塞网/css/index.css",
+				"/E/弟嘉/WEB前段（front end developer)/韦辉韦辉/哇塞网/css/xiangqing.css",
+				"/E/弟嘉/WEB前段（front end developer)/韦辉韦辉/哇塞网/index.html",
+				"/E/弟嘉/WEB前段（front end developer)/韦辉韦辉/哇塞网/pag.html",
+				"/E/js练习/js练习/05-27/dom.html",
+				"/E/js练习/js练习/06-04/gouzaohanshu.html",
+				"/E/js练习/js练习/05-27/淘宝/js/myCart.js",
+				"/E/js练习/js练习/05-31/js/shop.js",
+				"/E/js练习/js练习/05-31/JSshop.html",
+				"/C/Users/辉/Desktop/哇塞项目/购物车.html",
+				"/C/Users/辉/Desktop/SublimeText/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/辉/Desktop/SublimeText/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/辉/Desktop/SublimeText/Data/Packages/User/JSON.sublime-settings",
+				"/C/Users/辉/Desktop/SublimeText/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/E/js练习/js练习/05-27/05-26/添加删除.html",
+				"/E/js练习/js练习/06-01老师/购物车/gouwu.html",
+				"/C/Users/辉/Desktop/SublimeText/Data/Packages/User/Package Control.sublime-settings",
+				"/C/Users/辉/Desktop/SublimeText/Data/Packages/User/Xdebug.sublime-settings",
+				"/E/js练习/js练习/06-02老师/bibao.html",
+				"/E/弟嘉/WEB前段（front end developer)/韦辉韦辉/哇塞网/css/shop.css",
+				"/E/弟嘉/WEB前段（front end developer)/韦辉韦辉/哇塞网/shop.html",
+				"/E/js练习/js练习/06-01/yuanshengshop.html",
+				"/E/js练习/js练习/06-02/hanshu.js",
+				"/E/js练习/js练习/06-02/hanshu.html",
+				"/E/js练习/js练习/06-01/selected.html",
+				"/E/js练习/js练习/06-01/tengxun.html",
+				"/E/js练习/js练习/05-26/search.html",
+				"/E/js练习/js练习/05-26/tianjiashanchu.html",
+				"/E/js练习/js练习/05-22/re.html",
+				"/E/js练习/js练习/05-27/05-26/create.html",
+				"/E/js练习/js练习/05-31/ES5.html",
+				"/E/js练习/js练习/05-31/maopao.html",
+				"/E/js练习/js练习/05-27/淘宝/demo.html",
+				"/E/js练习/js练习/05-23/this.html",
+				"/E/js练习/js练习/05-27/donghua.html",
+				"/E/js练习/js练习/duixiang.html",
+				"/C/Users/辉/Desktop/淘宝/js/myCart.js",
+				"/C/Users/辉/Desktop/淘宝/demo.html",
+				"/C/Users/辉/Desktop/淘宝/css/myCart.css",
+				"/C/Users/辉/Desktop/js购物车.html",
+				"/E/弟嘉/WEB前段（front end developer)/韦辉韦辉/哇塞网/购物车/css/style.css",
+				"/E/弟嘉/WEB前段（front end developer)/韦辉韦辉/哇塞网/购物车/shop.html",
+				"/E/弟嘉/WEB前段（front end developer)/韦辉韦辉/哇塞网/首页/index.html",
+				"/E/弟嘉/WEB前段（front end developer)/韦辉韦辉/哇塞网/首页/css/style1.css",
+				"/C/Users/辉/Desktop/新建文件夹 (2)/哇塞项目/index.html",
+				"/C/Users/辉/Desktop/新建文件夹 (2)/哇塞项目/css/index.css",
+				"/C/Users/辉/Desktop/新建文件夹 (2)/哇塞项目/购物车.html",
+				"/E/js练习/js练习/05-25/yuansheng.html",
+				"/E/js练习/js练习/05-25/tupianqiehuan.html",
+				"/E/js练习/js练习/05-16/jisuanqi.html",
+				"/E/js练习/js练习/05-17/for循环.html",
+				"/E/js练习/js练习/05-17/baiyechuang.html",
+				"/E/js练习/js练习/05-19/daojishi.html",
+				"/E/js练习/js练习/05-19/watch.html",
+				"/E/js练习/js练习/05-20/shizhong.html",
+				"/E/js练习/js练习/05-22/wangyi.html",
+				"/C/Users/辉/Desktop/pic.html",
+				"/E/js练习/js练习/05-23/hanshu.html",
+				"/E/js练习/js练习/05-23/for循环.html",
+				"/C/Users/辉/Desktop/韦辉韦辉/哇塞网/首页/index.html",
+				"/C/Users/辉/Desktop/韦辉韦辉/哇塞网/首页/css/style1.css",
+				"/E/js练习/js练习/05-23/哇塞项目/index.html",
+				"/E/js练习/js练习/05-23/哇塞项目/css/index.css",
+				"/E/js练习/js练习/05-23/哇塞项目/css/app.css",
+				"/E/js练习/js练习/05-23/哇塞项目/css/xiangqingye.css",
+				"/E/js练习/js练习/05-22/jQuery-verify20160304/js/register.src",
+				"/E/js练习/js练习/05-22/jQuery-verify20160304/js/jquery-1.11.1.min.js",
+				"/E/js练习/js练习/05-22/jQuery-verify20160304/js/registe11r.js",
+				"/E/js练习/js练习/05-22/jQuery-verify20160304/index.html",
+				"/E/js练习/js练习/05-22/jQuery-verify20160304/css/index.css",
+				"/E/js练习/js练习/05-22/jQuery-verify20160304/js/register.js",
+				"/E/js练习/js练习/05-12/购物车/shop.html",
+				"/E/js练习/js练习/05-12/购物车/css/style.css",
+				"/E/js练习/js练习/05-12/详情页/css/style2.css",
+				"/E/js练习/js练习/05-12/详情页/pag.html",
+				"/C/Users/辉/Desktop/哇塞项目/css/gouwuche.css",
+				"/E/js练习/js练习/05-12/首页/index.html",
+				"/E/js练习/js练习/05-12/首页/css/style1.css",
+				"/E/js练习/js练习/05-18/概率抽奖.html",
+				"/E/js练习/js练习/05-18/gailv.html",
+				"/E/js练习/js练习/05-18/choujiang.html",
+				"/C/Users/辉/Desktop/05-20/shizhong.html",
+				"/E/js练习/js练习/05-20/ded52eae-5452-11e4-8bf9-00163e001348/index.html",
+				"/E/js练习/js练习/05-20/ded52eae-5452-11e4-8bf9-00163e001348/css/demo.css",
+				"/E/js练习/js练习/05-20/ded52eae-5452-11e4-8bf9-00163e001348/js/script.js",
+				"/E/js练习/js练习/5.12。1/xiangqing.html",
+				"/C/Users/辉/Desktop/SublimeText/shizhong.html",
+				"/C/Users/辉/Desktop/js练习/05-19/watch.html",
+				"/C/Users/辉/Desktop/js练习/05-18/choujiang.html",
+				"/C/Users/辉/Desktop/js练习/05-19/daojishi1.html",
+				"/C/Users/辉/Desktop/js练习/05-19/daojishi.html",
+				"/C/Users/辉/Desktop/js练习/05-12/详情页/pag.html",
+				"/C/Users/辉/Desktop/js练习/05-18/gailv.html",
+				"/C/Users/辉/Desktop/概率抽奖.html",
+				"/C/Users/辉/Desktop/js练习/05-12/详情页/css/style2.css",
+				"/C/Users/辉/Desktop/js练习/05-17/for循环.html",
+				"/C/Users/辉/Desktop/js练习/05-17/baiyechuang.html",
+				"/C/Users/辉/Desktop/js练习/05-16/jisuanqi.html",
+				"/C/Users/辉/Desktop/js练习/05-12/首页/index.html",
+				"/C/Users/辉/Desktop/js练习/05-12/首页/css/style1.css",
+				"/C/Users/辉/Desktop/js练习/05-10/京东nav.html",
+				"/C/Users/辉/Desktop/js练习/05-16/yuan.html",
+				"/C/Users/辉/Desktop/js练习/05-12/购物车/shop.html",
+				"/C/Users/辉/Desktop/js练习/05-12/购物车/css/style.css",
+				"/C/Users/辉/Desktop/js练习/05-11/导航轮播特效/daohang.html",
+				"/C/Users/辉/Desktop/js练习/05-12/wasai老师/shoppingcar.html",
+				"/C/Users/辉/Desktop/index111.html",
+				"/C/Users/辉/Desktop/css/top.css",
+				"/C/Users/辉/Desktop/css/gouowu.css",
+				"/C/Users/辉/Desktop/css/base.css",
+				"/C/Users/辉/Desktop/css/bannerList.css",
+				"/C/Users/辉/Desktop/js练习/05-11/导航轮播特效/css/style.css",
+				"/C/Users/辉/Desktop/js练习/05-12/首页/images/wowyun.html",
+				"/C/Users/辉/Desktop/js练习/05-09/删除标签.html",
+				"/C/Users/辉/Desktop/js练习/05-08/homework05-08.html",
+				"/C/Users/辉/Desktop/js练习/05-08/work1.html"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					" padding-right: 68px;\n}",
+					".head-down",
+					"box-shadow",
+					" .",
+					".head-down",
+					"each",
+					"cir",
+					"main-left",
+					"main-a",
+					"main-b",
+					"main-a",
+					"click",
+					"font-size",
+					"font-size:48px;\nline-height:90px;\ncolor:#f4632e;",
+					"line-height:",
+					"line-height",
+					"font-size"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 55.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 165.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 802.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"N",
+						"Nav.js"
+					],
+					[
+						"re",
+						"react.css"
+					],
+					[
+						"css",
+						"css/"
+					],
+					[
+						"prt",
+						"prototype"
+					],
+					[
+						"sex",
+						"sex"
+					],
+					[
+						"proto",
+						"prototype"
+					],
+					[
+						"cleat",
+						"clearInterval()	Frame"
+					],
+					[
+						"qu",
+						"querySelector()"
+					],
+					[
+						"scr",
+						"scroll	.scroll()"
+					],
+					[
+						"mari",
+						"margin-top"
+					],
+					[
+						"q",
+						"querySelectorAll"
+					],
+					[
+						"bai",
+						"baobei"
+					],
+					[
+						"shop",
+						"shopTotal"
+					],
+					[
+						"check",
+						"checkbox	Default"
+					],
+					[
+						"pr",
+						"preventDefault()	Event"
+					],
+					[
+						"clear",
+						"clearfix"
+					],
+					[
+						"radioA",
+						"radioAll"
+					],
+					[
+						"getElement",
+						"getElementsByTagName()"
+					],
+					[
+						"onc",
+						"onclick	(gouwu.html)"
+					],
+					[
+						"cou",
+						"countArr"
+					],
+					[
+						"change",
+						"changeState"
+					],
+					[
+						"all",
+						"allArr"
+					],
+					[
+						"che",
+						"checked	(gouwu.html)"
+					],
+					[
+						"getE",
+						"getElementsByTagName()	Document"
+					],
+					[
+						"op",
+						"options[]	Select"
+					],
+					[
+						"option",
+						"options[]	Select"
+					],
+					[
+						"selected",
+						"selectedIndex"
+					],
+					[
+						"for",
+						"foreach()	Array"
+					],
+					[
+						"n",
+						"no-repeat"
+					],
+					[
+						"si",
+						"siblings	.siblings()"
+					],
+					[
+						"subT",
+						"subTotal"
+					],
+					[
+						"par",
+						"parseFloat	Default"
+					],
+					[
+						"mar",
+						"marginLeft"
+					],
+					[
+						"pars",
+						"parseFloat"
+					],
+					[
+						"get",
+						"getComputedStyle"
+					],
+					[
+						"getc",
+						"getComputedStyle	Window"
+					],
+					[
+						"rem",
+						"removeClass"
+					],
+					[
+						"doc",
+						"document	Window"
+					],
+					[
+						"src",
+						"srcElement	Event"
+					],
+					[
+						"remo",
+						"removeChild()"
+					],
+					[
+						"quer",
+						"querySelectorAll"
+					],
+					[
+						"parent",
+						"parentNode"
+					],
+					[
+						"font",
+						"font-weight"
+					],
+					[
+						"inner",
+						"innerText"
+					],
+					[
+						"setA",
+						"setAttribute()"
+					],
+					[
+						"cr",
+						"createElement()	Document"
+					],
+					[
+						"ol",
+						"oldClass"
+					],
+					[
+						"remove",
+						"removeAttribute()"
+					],
+					[
+						"se",
+						"setAttribute()"
+					],
+					[
+						"getElementsB",
+						"getElementsByClassName()"
+					],
+					[
+						"pre",
+						"preventDefault	Event"
+					],
+					[
+						"do",
+						"document	Window"
+					],
+					[
+						"po",
+						"pointer"
+					],
+					[
+						"index",
+						"indexOf()	Array"
+					],
+					[
+						"focu",
+						"focusout	.focusout()"
+					],
+					[
+						"bord",
+						"border-bottom"
+					],
+					[
+						"fon",
+						"font-weight"
+					],
+					[
+						"show",
+						"showMinute"
+					],
+					[
+						"now",
+						"nowMinute"
+					],
+					[
+						"set",
+						"setInterval()	Frame"
+					],
+					[
+						"bo",
+						"border"
+					],
+					[
+						"bor",
+						"border-radius"
+					],
+					[
+						"border",
+						"border-bottom"
+					],
+					[
+						"padd",
+						"padding"
+					],
+					[
+						"r",
+						"relative"
+					],
+					[
+						"border-ri",
+						"border-radius"
+					],
+					[
+						"rel",
+						"relative"
+					],
+					[
+						"no",
+						"no-repeat"
+					],
+					[
+						"im",
+						"images	(shop.html)"
+					],
+					[
+						"margin",
+						"margin-right"
+					],
+					[
+						"font-",
+						"font-weight"
+					],
+					[
+						"margin-",
+						"margin-bottom"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"b",
+						"block"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"tri",
+						"trigger	.trigger()"
+					],
+					[
+						"add",
+						"addClass"
+					],
+					[
+						"bl",
+						"bolder"
+					],
+					[
+						"silde",
+						"slideDown	.slideDown()"
+					],
+					[
+						"blo",
+						"block"
+					],
+					[
+						"di",
+						"display"
+					],
+					[
+						"c",
+						"color"
+					],
+					[
+						"hi",
+						"hidden"
+					],
+					[
+						"td",
+						"td	text-decoration: ${1:none};"
+					],
+					[
+						"va",
+						"value	Attr"
+					],
+					[
+						"an",
+						"animate	.animate()"
+					],
+					[
+						"pic",
+						"picSrc"
+					],
+					[
+						"tex",
+						"text-decoration"
+					],
+					[
+						"ti",
+						"title	<title>"
+					],
+					[
+						"marg",
+						"margin"
+					],
+					[
+						"te",
+						"textarea	(pay list.html)"
+					],
+					[
+						"o",
+						"overflow"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"img",
+						"images	(pay list.html)"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"vi",
+						"view	(index.html)"
+					],
+					[
+						"tr",
+						"translate()"
+					],
+					[
+						"ima",
+						"images"
+					],
+					[
+						"fonts",
+						"font-style"
+					],
+					[
+						"mar-",
+						"margin-top"
+					],
+					[
+						"ver",
+						"vertical-align"
+					],
+					[
+						"fr",
+						"free	(index.html)"
+					],
+					[
+						"t",
+						"transform"
+					],
+					[
+						"fon-",
+						"font-size"
+					],
+					[
+						"co",
+						"color"
+					],
+					[
+						"ac",
+						"active	(index.html)"
+					],
+					[
+						"lst",
+						"list-style"
+					],
+					[
+						"gr",
+						"groove"
+					],
+					[
+						"d",
+						"display"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"corl",
+						"color	(DELL.html)"
+					],
+					[
+						"pdd",
+						"padding-right"
+					],
+					[
+						"my",
+						"myname"
+					],
+					[
+						"max-",
+						"max-width"
+					],
+					[
+						"max",
+						"max"
+					],
+					[
+						"he",
+						"header"
+					],
+					[
+						"ma",
+						"margin"
+					],
+					[
+						"h",
+						"height"
+					],
+					[
+						"w",
+						"width"
+					],
+					[
+						"na",
+						"nav1"
+					],
+					[
+						"sec",
+						"select	<select>"
+					],
+					[
+						"lin",
+						"linear"
+					],
+					[
+						"al",
+						"alternate	(style.css)"
+					],
+					[
+						"le",
+						"left"
+					],
+					[
+						"ab",
+						"absolute"
+					],
+					[
+						"ro",
+						"rotate"
+					],
+					[
+						"trans",
+						"transform"
+					],
+					[
+						"p",
+						"pos	position: ${1:relative};"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/Administrator/Desktop/world/react-hello/src/index.js",
+					"settings":
+					{
+						"buffer_size": 151,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/Desktop/world/react-hello/src/App.js",
+					"settings":
+					{
+						"buffer_size": 870,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 335.0,
+				"last_filter": "install",
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 514.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/Administrator/Desktop/hello",
+				"/C/Users/Administrator/Desktop/6-14",
+				"/C/Users/Administrator/Desktop/614",
+				"/C/Users/Administrator/Desktop/world",
+				"/C/Users/Administrator/Desktop/world/react-hello",
+				"/C/Users/Administrator/Desktop/world/react-hello/src"
+			],
+			"file_history":
+			[
+				"/C/Users/Administrator/Desktop/world/react-hello/src/Header.js",
+				"/C/Users/Administrator/Desktop/world/react-hello/src/Nav.js",
+				"/C/Users/Administrator/Desktop/world/react-hello/src/Footer.js",
+				"/C/Users/Administrator/Desktop/614/.gitignore",
+				"/C/Users/Administrator/Desktop/SublimeText/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/Desktop/614/package-lock.json",
+				"/C/Users/Administrator/Desktop/614/package.json",
+				"/C/Users/Administrator/Desktop/yuweiliu.github.io/index.html",
+				"/E/lianxi/新班课程/js/自驾游项目/css/public.css",
+				"/E/lianxi/新班课程/html+css/app1/index.html",
+				"/E/lianxi/新班课程/html+css/app/index.html",
+				"/E/lianxi/新班课程/html+css/项目1/index.html",
+				"/E/js练习/js练习/06-06/zepto.html",
+				"/E/js练习/js练习/06-06/音乐.html",
+				"/E/js练习/js练习/音乐.html",
+				"/E/js练习/js练习/06-06",
+				"/E/js练习/js练习/06-05/gouzaohanshu.html",
+				"/E/js练习/js练习/gundong.html",
+				"/C/Users/辉/Desktop/JS原声购物车/JSshop.html",
+				"/C/Users/辉/Desktop/JS原声购物车/js/shop.js",
+				"/E/js练习/js练习/冒泡.exe",
+				"/E/弟嘉/WEB前段（front end developer)/韦辉韦辉/哇塞网/css/index.css",
+				"/E/弟嘉/WEB前段（front end developer)/韦辉韦辉/哇塞网/css/xiangqing.css",
+				"/E/弟嘉/WEB前段（front end developer)/韦辉韦辉/哇塞网/index.html",
+				"/E/弟嘉/WEB前段（front end developer)/韦辉韦辉/哇塞网/pag.html",
+				"/E/js练习/js练习/05-27/dom.html",
+				"/E/js练习/js练习/06-04/gouzaohanshu.html",
+				"/E/js练习/js练习/05-27/淘宝/js/myCart.js",
+				"/E/js练习/js练习/05-31/js/shop.js",
+				"/E/js练习/js练习/05-31/JSshop.html",
+				"/C/Users/辉/Desktop/哇塞项目/购物车.html",
+				"/C/Users/辉/Desktop/SublimeText/Data/Packages/User/Preferences.sublime-settings",
+				"/C/Users/辉/Desktop/SublimeText/Data/Packages/Default/Preferences.sublime-settings",
+				"/C/Users/辉/Desktop/SublimeText/Data/Packages/User/JSON.sublime-settings",
+				"/C/Users/辉/Desktop/SublimeText/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/E/js练习/js练习/05-27/05-26/添加删除.html",
+				"/E/js练习/js练习/06-01老师/购物车/gouwu.html",
+				"/C/Users/辉/Desktop/SublimeText/Data/Packages/User/Package Control.sublime-settings",
+				"/C/Users/辉/Desktop/SublimeText/Data/Packages/User/Xdebug.sublime-settings",
+				"/E/js练习/js练习/06-02老师/bibao.html",
+				"/E/弟嘉/WEB前段（front end developer)/韦辉韦辉/哇塞网/css/shop.css",
+				"/E/弟嘉/WEB前段（front end developer)/韦辉韦辉/哇塞网/shop.html",
+				"/E/js练习/js练习/06-01/yuanshengshop.html",
+				"/E/js练习/js练习/06-02/hanshu.js",
+				"/E/js练习/js练习/06-02/hanshu.html",
+				"/E/js练习/js练习/06-01/selected.html",
+				"/E/js练习/js练习/06-01/tengxun.html",
+				"/E/js练习/js练习/05-26/search.html",
+				"/E/js练习/js练习/05-26/tianjiashanchu.html",
+				"/E/js练习/js练习/05-22/re.html",
+				"/E/js练习/js练习/05-27/05-26/create.html",
+				"/E/js练习/js练习/05-31/ES5.html",
+				"/E/js练习/js练习/05-31/maopao.html",
+				"/E/js练习/js练习/05-27/淘宝/demo.html",
+				"/E/js练习/js练习/05-23/this.html",
+				"/E/js练习/js练习/05-27/donghua.html",
+				"/E/js练习/js练习/duixiang.html",
+				"/C/Users/辉/Desktop/淘宝/js/myCart.js",
+				"/C/Users/辉/Desktop/淘宝/demo.html",
+				"/C/Users/辉/Desktop/淘宝/css/myCart.css",
+				"/C/Users/辉/Desktop/js购物车.html",
+				"/E/弟嘉/WEB前段（front end developer)/韦辉韦辉/哇塞网/购物车/css/style.css",
+				"/E/弟嘉/WEB前段（front end developer)/韦辉韦辉/哇塞网/购物车/shop.html",
+				"/E/弟嘉/WEB前段（front end developer)/韦辉韦辉/哇塞网/首页/index.html",
+				"/E/弟嘉/WEB前段（front end developer)/韦辉韦辉/哇塞网/首页/css/style1.css",
+				"/C/Users/辉/Desktop/新建文件夹 (2)/哇塞项目/index.html",
+				"/C/Users/辉/Desktop/新建文件夹 (2)/哇塞项目/css/index.css",
+				"/C/Users/辉/Desktop/新建文件夹 (2)/哇塞项目/购物车.html",
+				"/E/js练习/js练习/05-25/yuansheng.html",
+				"/E/js练习/js练习/05-25/tupianqiehuan.html",
+				"/E/js练习/js练习/05-16/jisuanqi.html",
+				"/E/js练习/js练习/05-17/for循环.html",
+				"/E/js练习/js练习/05-17/baiyechuang.html",
+				"/E/js练习/js练习/05-19/daojishi.html",
+				"/E/js练习/js练习/05-19/watch.html",
+				"/E/js练习/js练习/05-20/shizhong.html",
+				"/E/js练习/js练习/05-22/wangyi.html",
+				"/C/Users/辉/Desktop/pic.html",
+				"/E/js练习/js练习/05-23/hanshu.html",
+				"/E/js练习/js练习/05-23/for循环.html",
+				"/C/Users/辉/Desktop/韦辉韦辉/哇塞网/首页/index.html",
+				"/C/Users/辉/Desktop/韦辉韦辉/哇塞网/首页/css/style1.css",
+				"/E/js练习/js练习/05-23/哇塞项目/index.html",
+				"/E/js练习/js练习/05-23/哇塞项目/css/index.css",
+				"/E/js练习/js练习/05-23/哇塞项目/css/app.css",
+				"/E/js练习/js练习/05-23/哇塞项目/css/xiangqingye.css",
+				"/E/js练习/js练习/05-22/jQuery-verify20160304/js/register.src",
+				"/E/js练习/js练习/05-22/jQuery-verify20160304/js/jquery-1.11.1.min.js",
+				"/E/js练习/js练习/05-22/jQuery-verify20160304/js/registe11r.js",
+				"/E/js练习/js练习/05-22/jQuery-verify20160304/index.html",
+				"/E/js练习/js练习/05-22/jQuery-verify20160304/css/index.css",
+				"/E/js练习/js练习/05-22/jQuery-verify20160304/js/register.js",
+				"/E/js练习/js练习/05-12/购物车/shop.html",
+				"/E/js练习/js练习/05-12/购物车/css/style.css",
+				"/E/js练习/js练习/05-12/详情页/css/style2.css",
+				"/E/js练习/js练习/05-12/详情页/pag.html",
+				"/C/Users/辉/Desktop/哇塞项目/css/gouwuche.css",
+				"/E/js练习/js练习/05-12/首页/index.html",
+				"/E/js练习/js练习/05-12/首页/css/style1.css",
+				"/E/js练习/js练习/05-18/概率抽奖.html",
+				"/E/js练习/js练习/05-18/gailv.html",
+				"/E/js练习/js练习/05-18/choujiang.html",
+				"/C/Users/辉/Desktop/05-20/shizhong.html",
+				"/E/js练习/js练习/05-20/ded52eae-5452-11e4-8bf9-00163e001348/index.html",
+				"/E/js练习/js练习/05-20/ded52eae-5452-11e4-8bf9-00163e001348/css/demo.css",
+				"/E/js练习/js练习/05-20/ded52eae-5452-11e4-8bf9-00163e001348/js/script.js",
+				"/E/js练习/js练习/5.12。1/xiangqing.html",
+				"/C/Users/辉/Desktop/SublimeText/shizhong.html",
+				"/C/Users/辉/Desktop/js练习/05-19/watch.html",
+				"/C/Users/辉/Desktop/js练习/05-18/choujiang.html",
+				"/C/Users/辉/Desktop/js练习/05-19/daojishi1.html",
+				"/C/Users/辉/Desktop/js练习/05-19/daojishi.html",
+				"/C/Users/辉/Desktop/js练习/05-12/详情页/pag.html",
+				"/C/Users/辉/Desktop/js练习/05-18/gailv.html",
+				"/C/Users/辉/Desktop/概率抽奖.html",
+				"/C/Users/辉/Desktop/js练习/05-12/详情页/css/style2.css",
+				"/C/Users/辉/Desktop/js练习/05-17/for循环.html",
+				"/C/Users/辉/Desktop/js练习/05-17/baiyechuang.html",
+				"/C/Users/辉/Desktop/js练习/05-16/jisuanqi.html",
+				"/C/Users/辉/Desktop/js练习/05-12/首页/index.html",
+				"/C/Users/辉/Desktop/js练习/05-12/首页/css/style1.css",
+				"/C/Users/辉/Desktop/js练习/05-10/京东nav.html",
+				"/C/Users/辉/Desktop/js练习/05-16/yuan.html",
+				"/C/Users/辉/Desktop/js练习/05-12/购物车/shop.html",
+				"/C/Users/辉/Desktop/js练习/05-12/购物车/css/style.css",
+				"/C/Users/辉/Desktop/js练习/05-11/导航轮播特效/daohang.html",
+				"/C/Users/辉/Desktop/js练习/05-12/wasai老师/shoppingcar.html",
+				"/C/Users/辉/Desktop/index111.html"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					" padding-right: 68px;\n}",
+					".head-down",
+					"box-shadow",
+					" .",
+					".head-down",
+					"each",
+					"cir",
+					"main-left",
+					"main-a",
+					"main-b",
+					"main-a",
+					"click",
+					"font-size",
+					"font-size:48px;\nline-height:90px;\ncolor:#f4632e;",
+					"line-height:",
+					"line-height",
+					"font-size"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "C:\\Users\\Administrator\\Desktop\\hello"
+				},
+				{
+					"path": "C:\\Users\\Administrator\\Desktop\\6-14"
+				},
+				{
+					"path": "C:\\Users\\Administrator\\Desktop\\614"
+				},
+				{
+					"path": "C:\\Users\\Administrator\\Desktop\\world"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Administrator/Desktop/world/react-hello/src/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 151,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"apply_syntax_touched": true,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										225,
+										6,
+										19,
+										9,
+										41,
+										14,
+										0,
+										0,
+										0,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Soda (SL).tmTheme",
+									"function_name_status_row": 0,
+									"incomplete_sync": null,
+									"origPos": 0.0,
+									"origin_encoding": "UTF-8",
+									"remote_loading": false,
+									"syncScroll": false,
+									"synced": false,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Administrator/Desktop/world/react-hello/src/App.js",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 870,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										839,
+										839
+									]
+								],
+								"settings":
+								{
+									"BracketHighlighterBusy": false,
+									"apply_syntax_touched": true,
+									"bh_regions":
+									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										225,
+										6,
+										20,
+										11,
+										14,
+										49,
+										0,
+										0,
+										0,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Soda (SL).tmTheme",
+									"function_name_status_row": 41,
+									"incomplete_sync": null,
+									"origPos": 0.0,
+									"origin_encoding": "UTF-8",
+									"remote_loading": false,
+									"syncScroll": false,
+									"synced": false,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 840.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 36.0
+			},
+			"input":
+			{
+				"height": 55.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,771,267,48,1085",
+			"project": "",
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 165.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 16,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

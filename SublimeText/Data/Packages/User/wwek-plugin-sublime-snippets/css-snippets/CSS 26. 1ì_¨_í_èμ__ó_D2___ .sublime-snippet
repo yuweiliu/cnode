@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+/* */
+#page-wrap {
+     width: 800px;
+     margin: 0 auto;
+ }]]></content>
+    <tabTrigger>css- 26.</tabTrigger>
+    <scope>source.css</scope>
+    <description> 26. CSS 固定宽度的居中布局 </description>
+</snippet>

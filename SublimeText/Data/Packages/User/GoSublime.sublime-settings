@@ -1,0 +1,26 @@
+{
+    "env": {
+     "GOROOT":"D:\\Program Files\\go1.6", //go的安装路径
+     //"GOBIN":"H:\\webserver\\go32\\bin", //设置后 go install会把生成的可执行文件放在系统go/bin/下
+     // "GOPATH": "%GS_GOPATH%", //您go的工作路径 go>=1.5 推荐用绝对路径 不要用这个
+     "GOPATH": "D:\\golang", //您go的工作路径
+     "GOARCH":"amd64", //系统变量里面的 GOHOSTARCH ，386为32位平台,amd64为 64位平台
+     "GOOS":"windows", //系统里面的GOOS
+     "PATH":"%GOROOT%\\bin;%PATH%" // linux =》 "$GOROOT/bin:$PATH"
+    },
+    "autocomplete_suggest_imports": true,
+    "autocomplete_builtins": true, // 提示内置关键字
+    "use_gs_gopath": true,
+    "comp_lint_enabled": true,   //打开这个才有下面的 comp_lint_commands标签里面的内容
+    "comp_lint_commands": [
+        {"cmd": ["go", "install"]}
+    ],
+    "lint_enabled": true,
+    "on_save": [
+        {"cmd":"gs_comp_lint"}   //当按保存时以cmd自动执行的命令
+    ],
+    // 1.自动导包  先安装(go get -v code.google.com/p/go.tools/cmd/goimports)：
+    // "fmt_cmd": ["goimports"]
+    // go get -v github.com/rogpeppe/godef
+    // go get -v github.com/nsf/gocode
+}

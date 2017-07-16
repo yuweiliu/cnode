@@ -1,0 +1,5 @@
+[
+	{ "caption": "-" },
+	{ "command": "sftp_upload_file", "args": { "group": -1, "index": -1 }, "caption": "上传本文件" },
+	{ "command": "sftp_upload_open_files", "caption": "上传打开的文件" }
+]

@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+/* */
+a[href], input[type='submit'], input[type='image'], label[for], select, button, .pointer {
+    cursor: pointer;
+}
+]]></content>
+    <tabTrigger>css- 34.</tabTrigger>
+    <scope>source.css</scope>
+    <description> 34. CSS 强制可点击条目上显示手型光标  </description>
+</snippet>

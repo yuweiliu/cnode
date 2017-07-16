@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+/* */
+@media print   {  
+  a:after {  
+    content: " [" attr(href) "] ";  
+  }  
+}
+]]></content>
+    <tabTrigger>css- 42.</tabTrigger>
+    <scope>source.css</scope>
+    <description> 42. CSS 在一个打印页面显示URLS </description>
+</snippet>

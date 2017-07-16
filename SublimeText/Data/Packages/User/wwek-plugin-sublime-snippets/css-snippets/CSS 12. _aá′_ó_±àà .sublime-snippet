@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+/* */
+a:link { color: blue;
+ 
+}
+a:visited { color: purple;
+ 
+}
+a:hover { color: red;
+ 
+}
+a:active { color: yellow;
+ }]]></content>
+    <tabTrigger>css- 12.</tabTrigger>
+    <scope>source.css</scope>
+    <description> 12. CSS 锚链接伪类 </description>
+</snippet>

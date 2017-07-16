@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+/* */
+#colorbox {
+     background: #629721;
+     background-image: -webkit-gradient(linear, left top, left bottom, from(#83b842), to(#629721));
+     background-image: -webkit-linear-gradient(top, #83b842, #629721);
+     background-image: -moz-linear-gradient(top, #83b842, #629721);
+     background-image: -ms-linear-gradient(top, #83b842, #629721);
+     background-image: -o-linear-gradient(top, #83b842, #629721);
+     background-image: linear-gradient(top, #83b842, #629721);
+ }]]></content>
+    <tabTrigger>css- 17.</tabTrigger>
+    <scope>source.css</scope>
+    <description> 17. CSS3梯度模板 </description>
+</snippet>

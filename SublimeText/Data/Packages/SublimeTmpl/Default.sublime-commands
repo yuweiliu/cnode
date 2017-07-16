@@ -1,0 +1,34 @@
+[
+    {
+        "caption": "Tmpl: Create html", "command": "sublime_tmpl",
+        "args": {"type": "html"}
+    },
+    {
+        "caption": "Tmpl: Create html5", "command": "sublime_tmpl",
+        "args": {"type": "html5"}
+    },
+    {
+        "caption": "Tmpl: Create wap", "command": "sublime_tmpl",
+        "args": {"type": "wap"}
+    },
+    {
+        "caption": "Tmpl: Create javascript", "command": "sublime_tmpl",
+        "args": {"type": "js"}
+    },
+    {
+        "caption": "Tmpl: Create css", "command": "sublime_tmpl",
+        "args": {"type": "css"}
+    },
+    {
+        "caption": "Tmpl: Create php", "command": "sublime_tmpl",
+        "args": {"type": "php"}
+    },
+    {
+        "caption": "Tmpl: Create python", "command": "sublime_tmpl",
+        "args": {"type": "python"}
+    },
+    {
+        "caption": "Tmpl: Create ruby", "command": "sublime_tmpl",
+        "args": {"type": "ruby"}
+    }
+]

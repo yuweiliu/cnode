@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+/* */
+html { height: 101% 
+}
+]]></content>
+    <tabTrigger>css- 16.</tabTrigger>
+    <scope>source.css</scope>
+    <description> 16. CSS 强制垂直滚动条 </description>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+/* */
+body {
+    background: radial-gradient(circle, white 10%, transparent 10%),
+    radial-gradient(circle, white 10%, black 10%) 50px 50px;
+    background-size: 100px 100px;
+}
+]]></content>
+    <tabTrigger>css-44.</tabTrigger>
+    <scope>source.css</scope>
+    <description>44. CSS3 带圆点的图案</description>
+</snippet>

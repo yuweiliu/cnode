@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+/* */
+body {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+]]></content>
+    <tabTrigger>css-43.</tabTrigger>
+    <scope>source.css</scope>
+    <description>43. CSS 禁用移动Webkit高亮</description>
+</snippet>

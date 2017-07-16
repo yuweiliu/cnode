@@ -1,0 +1,23 @@
+<snippet>
+    <content><![CDATA[
+/* */
+.clearfix:after { content: ".";
+ display: block;
+ clear: both;
+ visibility: hidden;
+ line-height: 0;
+ height: 0;
+ 
+}
+.clearfix { display: inline-block;
+ 
+}
+  html[xmlns] .clearfix { display: block;
+ 
+}
+* html .clearfix { height: 1%;
+ }]]></content>
+    <tabTrigger>css- 2.</tabTrigger>
+    <scope>source.css</scope>
+    <description> 2. 经典的 CSS Clearfix </description>
+</snippet>

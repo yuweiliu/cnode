@@ -1,0 +1,91 @@
+[
+    {
+        "id": "file",
+        "children":
+        [
+            {
+                "caption": "SFTP/FTP(b)",
+                "mnemonic": "b",
+                "children":
+                [
+                    { "command": "sftp_create_server", "caption": "设置服务器…" },
+                    { "command": "sftp_browse_server", "caption": "浏览服务器…" },
+                    { "command": "sftp_edit_server", "caption": "编辑服务器…" },
+                    { "command": "sftp_delete_server", "caption": "删除服务器…" }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "preferences",
+        "children":
+        [
+            {
+                "caption": "程序包设置(P)",
+                "mnemonic": "P",
+                "id": "package-settings",
+                "children":
+                [
+                    {
+                        "caption": "SFTP",
+                        "children":
+                        [
+                            { "command": "open_file", "args": {"file": "${packages}/SFTP/SFTP.sublime-settings"}, "caption": "设置 – 默认" },
+                            { "command": "open_file", "args": {"file": "${packages}/User/SFTP.sublime-settings"}, "caption": "设置 – 用户" },
+                            { "caption": "-" },
+                            {
+                                "command": "open_file", "args":
+                                {
+                                    "file": "${packages}/SFTP/Default (Windows).sublime-keymap",
+                                    "platform": "Windows"
+                                },
+                                "caption": "按键绑定 – 默认"
+                            },
+                            {
+                                "command": "open_file", "args":
+                                {
+                                    "file": "${packages}/SFTP/Default (OSX).sublime-keymap",
+                                    "platform": "OSX"
+                                },
+                                "caption": "按键绑定 – 默认"
+                            },
+                            {
+                                "command": "open_file", "args":
+                                {
+                                    "file": "${packages}/SFTP/Default (Linux).sublime-keymap",
+                                    "platform": "Linux"
+                                },
+                                "caption": "按键绑定 – 默认"
+                            },
+                            {
+                                "command": "open_file", "args":
+                                {
+                                    "file": "${packages}/User/Default (Windows).sublime-keymap",
+                                    "platform": "Windows"
+                                },
+                                "caption": "按键绑定 – 用户"
+                            },
+                            {
+                                "command": "open_file", "args":
+                                {
+                                    "file": "${packages}/User/Default (OSX).sublime-keymap",
+                                    "platform": "OSX"
+                                },
+                                "caption": "按键绑定 – 用户"
+                            },
+                            {
+                                "command": "open_file", "args":
+                                {
+                                    "file": "${packages}/User/Default (Linux).sublime-keymap",
+                                    "platform": "Linux"
+                                },
+                                "caption": "按键绑定 – 用户"
+                            },
+                            { "caption": "-" }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

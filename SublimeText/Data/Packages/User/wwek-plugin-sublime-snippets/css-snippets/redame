@@ -1,0 +1,16 @@
+来源：
+http://www.oschina.net/translate/css-snippets-for-designers
+
+sublime text snippet代码片段
+
+流水理鱼 http://www.iamle.com 2013年6月9日 22:59:00
+
+
+使用方法：
+解压成一个目录。
+放入如：
+D:\Program Files\Sublime Text\Sublime Text 2.0.1\Data\Packages\User\wwek-plugin-sublime-snippets\
+
+或者 Data\Packages\User\ 下。
+
+在扩展名为css的文件中 敲入css即可看到代码片段提示。

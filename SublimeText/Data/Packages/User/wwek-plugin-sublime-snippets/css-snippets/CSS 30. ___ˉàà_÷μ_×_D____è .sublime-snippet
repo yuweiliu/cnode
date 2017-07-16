@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+/* */
+#container {
+     min-height: 550px;
+     height: auto !important;
+     height: 550px;
+ }]]></content>
+    <tabTrigger>css- 30.</tabTrigger>
+    <scope>source.css</scope>
+    <description> 30. CSS 跨浏览器的最小高度 </description>
+</snippet>

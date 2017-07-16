@@ -1,0 +1,105 @@
+{
+	"9o.hist.D:\\golang\\src":
+	[
+		"bee new test123",
+		"bee new beego yes",
+		"bee new beego",
+		"bee hprose myhprose",
+		"bee api myapi"
+	],
+	"9o.hist.D:\\golang\\src\\bee":
+	[
+		"go install",
+		"bee  version",
+		"cd .."
+	],
+	"9o.hist.D:\\golang\\src\\beego":
+	[
+		"goimports",
+		"go install",
+		"bee run",
+		"cd .."
+	],
+	"9o.hist.D:\\golang\\src\\beego\\routers":
+	[
+		"cd .."
+	],
+	"9o.hist.D:\\golang\\src\\c1":
+	[
+		"go run c1",
+		"go run main",
+		"go run main.go",
+		"go run",
+		"go build",
+		"run"
+	],
+	"9o.hist.D:\\golang\\src\\go-bindata":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang\\src\\go-bindata\\go-bindata":
+	[
+		"go install",
+		"go version"
+	],
+	"9o.hist.D:\\golang\\src\\go.tools\\imports":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang\\src\\gocode":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang\\src\\golang.org\\x\\tools":
+	[
+		"go build"
+	],
+	"9o.hist.D:\\golang\\src\\golang.org\\x\\tools\\cmd\\goimports":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang\\src\\golang.org\\x\\tools\\godoc":
+	[
+		"go install",
+		"cd .."
+	],
+	"9o.hist.D:\\golang\\src\\golang.org\\x\\tools\\imports":
+	[
+		"go install",
+		"go build"
+	],
+	"9o.hist.D:\\golang\\src\\hprose":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang\\src\\macaron":
+	[
+		"go install"
+	],
+	"9o.hist.D:\\golang\\src\\margo":
+	[
+		"go build"
+	],
+	"9o.hist.D:\\golang\\src\\myhprose":
+	[
+		"go build -ldflags \"-s -w\"",
+		"go install",
+		"echo %GS_GOPATH%",
+		"echo GS_GOPATH",
+		"echo PATH",
+		"echo %PATH%",
+		"go env"
+	],
+	"9o.hist.D:\\golang\\src\\myhprose\\models":
+	[
+		"cd ../..",
+		"go version",
+		"GoSublime r14.12.06-1 9o: type `help` for help and command documentation\n\n[ `go version` | done: 29.0906ms ]\n  go version go1.5.1 windows/amd64\n[ D:/golang/src/myhprose/models/ ] # \n[ D:/golang/src/myhprose/models/ ] # go instll",
+		"GoSublime r14.12.06-1 9o: type `help` for help and command documentation",
+		"go install",
+		"go build"
+	],
+	"ann": "a14.02.25-1",
+	"install_version": "r14.12.06-1",
+	"version": "r14.12.06-1"
+}

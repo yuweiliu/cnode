@@ -1,0 +1,34 @@
+[
+	{ "caption": "-" },
+	{
+		"caption": "SFTP/FTP",
+		"children":
+		[
+			{ "caption": "上传文件", "command": "sftp_upload_file" },
+			{ "caption": "上传打开文件", "command": "sftp_upload_open_files" },
+			{ "caption": "下载文件", "command": "sftp_download_file" },
+			{ "caption": "-" },
+			{ "caption": "上传文件夹", "command": "sftp_upload_folder" },
+			{ "caption": "下载文件夹", "command": "sftp_download_folder" },
+			{ "caption": "-" },
+			{ "caption": "比较远程文件", "command": "sftp_diff_remote_file" },
+			{ "caption": "重命名本地和远程文件", "command": "sftp_rename_local_and_remote_paths" },
+			{ "caption": "-" },
+			{ "caption": "删除本地和远程文件", "command": "sftp_delete_local_and_remote_paths" },
+			{ "caption": "删除远程文件", "command": "sftp_delete_remote_path" },
+			{ "caption": "-" },
+			{ "caption": "本地同步 -> 远程…", "command": "sftp_sync_up" },
+			{ "caption": "远程同步 -> 本地…", "command": "sftp_sync_down" },
+			{ "caption": "双向同步…", "command": "sftp_sync_both" },
+			{ "caption": "-" },
+			{ "caption": "监视文件 (上传于外部储存)", "command": "sftp_monitor_file" },
+			{ "caption": "-" },
+			{ "caption": "远程浏览…", "command": "sftp_browse" },
+			{ "caption": "-" },
+			{ "caption": "映射到远程…", "command": "sftp_create_config" },
+			{ "caption": "编辑远程映射…", "command": "sftp_edit_config" },
+			{ "caption": "添加备用远程映射…", "command": "sftp_create_alt_config" },
+			{ "caption": "切换远程映射…", "command": "sftp_switch_config" }
+		]
+	}
+]

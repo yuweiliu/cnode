@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+/* */
+::selection { background: #e2eae2;
+ 
+}
+::-moz-selection { background: #e2eae2;
+ 
+}
+::-webkit-selection { background: #e2eae2;
+ }]]></content>
+    <tabTrigger>css- 9.</tabTrigger>
+    <scope>source.css</scope>
+    <description> 9. CSS 自定义文本选择 </description>
+</snippet>

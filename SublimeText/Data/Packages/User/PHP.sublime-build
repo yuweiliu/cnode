@@ -1,0 +1,6 @@
+{
+    "cmd": ["H:/webserver/php/php.exe","${file}"],
+	"file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+	"working_dir": "${file_path}",
+	"selector": "source.php"
+}

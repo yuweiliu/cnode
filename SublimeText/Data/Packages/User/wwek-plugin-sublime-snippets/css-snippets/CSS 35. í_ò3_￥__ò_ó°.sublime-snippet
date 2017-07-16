@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+/* */
+body:before {
+    content: "";
+    position: fixed;
+    top: -10px;
+    left: 0;
+    width: 100%;
+    height: 10px;
+
+    -webkit-box-shadow: 0px 0px 10px rgba(0,0,0,.8);
+    -moz-box-shadow: 0px 0px 10px rgba(0,0,0,.8);
+    box-shadow: 0px 0px 10px rgba(0,0,0,.8);
+    z-index: 100;
+}
+]]></content>
+    <tabTrigger>css- 35.</tabTrigger>
+    <scope>source.css</scope>
+    <description>35. CSS 网页顶端阴影</description>
+</snippet>

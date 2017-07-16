@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+/* */
+.container {
+     min-height: 6.5em;
+     display: table-cell;
+     vertical-align: middle;
+ }]]></content>
+    <tabTrigger>css- 15.</tabTrigger>
+    <scope>source.css</scope>
+    <description> 15. CSS 垂直居中内容 </description>
+</snippet>

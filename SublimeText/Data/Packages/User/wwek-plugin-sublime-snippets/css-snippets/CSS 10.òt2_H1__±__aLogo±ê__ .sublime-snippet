@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+/* */
+h1 {
+     text-indent: -9999px;
+     margin: 0 auto;
+     width: 320px;
+     height: 85px;
+     background: transparent url("images/logo.png") no-repeat scroll;
+ }]]></content>
+    <tabTrigger>css- 10.</tabTrigger>
+    <scope>source.css</scope>
+    <description> 10. CSS 隐藏H1文本为Logo标志 </description>
+</snippet>

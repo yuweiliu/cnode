@@ -1,0 +1,10 @@
+{
+	"env": {
+		"PATH":"H:\\Program Files\\python;%PATH%"
+	},
+	"shell_cmd": "python -u \"$file\"",
+	"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+	"selector": "source.python",
+	//"encoding": "cp936"
+	"encoding": "utf-8"
+}

@@ -1,0 +1,6 @@
+{
+      "syntaxProfiles": {
+          // Enable XHTML dialect for HTML syntax
+          "html": "xhtml"
+      }
+}
